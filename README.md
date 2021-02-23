@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/patelshyam](https://github.com/patelshyam)
 
-- 💬 Ask me about **MySQL**
+- 💬 Ask me about **Angular And Java**
 
 - 📫 How to reach me **patelshyam54@gmail.com**
 
