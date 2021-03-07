@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sorting Visualizer with Angular 8](https://github.com/patelshyam/Shorting-visualizer-angular)
 
-- 🌱 I’m currently learning **Tensor-flow.js, Blockchains, Cloud**
+- 🌱 I’m currently learning **Neo4j Graph Databases**
 
 - 👯 I’m crazy about **Databases**
 
