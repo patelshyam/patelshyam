@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on [Sorting Visualizer with Angular 8](https://github.com/patelshyam/Shorting-visualizer-angular)
 
-- 🌱 I’m currently learning **Neo4j Graph Database**
+- 🌱 I’m currently learning **Docker - Docker composer**
 
 - 👯 I’m crazy about **Databases**
 
-- 🤝 I’m looking for help with **Tensor-flow.js**
-
 - 👨‍💻 All of my projects are available at [https://github.com/patelshyam](https://github.com/patelshyam)
 
-- 💬 Ask me about **Angular And Java**
+- 💬 Ask me about **Python, Django, Java**
 
 - 📫 How to reach me **patelshyam54@gmail.com**
 
