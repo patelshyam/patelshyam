@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate Full Stack Developer and Student at TU Chemnitz</h3>
 
-- 🔭 I’m currently working on [Sorting Visualizer with Angular 8](https://github.com/patelshyam/Shorting-visualizer-angular)
+- 🔭 I’m currently working on Master's thesis
 
-- 🌱 I’m currently learning **Docker - Docker composer**
+- 🌱 I’m currently learning **GO**
 
-- 👯 I’m crazy about **Databases**
+- 👯 I’m crazy about **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/patelshyam](https://github.com/patelshyam)
 
-- 💬 Ask me about **Python, Django, Java**
+- 💬 Ask me about **Java, Python**
 
 - 📫 How to reach me **patelshyam54@gmail.com**
 
