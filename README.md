@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
-<h3 align="center">A passionate Full Stack Developer and Student at TU Chemnitz</h3>
+<h3 align="center">A passionate Full Stack Developer at Valtech Mobility</h3>
 
 - 🔭 I’m currently working on Master's thesis
 
