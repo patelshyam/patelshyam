@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
-<h3 align="center">A passionate Full Stack Developer at Valtech Mobility</h3>
+<h3 align="center">A passionate Java Backend Developer at Valtech Mobility</h3>
 
-- 🔭 I’m currently working on Master's thesis
+- 🌱 I’m currently learning about **Clean Code**
 
-- 🌱 I’m currently learning **GO**
-
-- 👯 I’m crazy about **Blockchain**
+- 👯 I’m crazy about **Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/patelshyam](https://github.com/patelshyam)
 
-- 💬 Ask me about **Java, Python**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **patelshyam54@gmail.com**
-
-- ⚡ Fun fact **Music + Coffe = Code 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
