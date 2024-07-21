@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate Java Backend Developer at Valtech Mobility</h3>
-
-- 🌱 I’m currently learning about **Clean Code**
+- 
+- 🌱 I’m currently learning **Kafka**
 
 - 👯 I’m crazy about **Data Engineering**
 
-- 👨‍💻 All of my projects are available at [https://github.com/patelshyam](https://github.com/patelshyam)
+- 👨‍💻 Take a look at sorting algo visualizer [Click Here](https://github.com/patelshyam/Sorting-visualizer-angular)
 
 - 💬 Ask me about **Java**
 
