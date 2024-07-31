@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shyam</h1>
 <h3 align="center">A passionate Java Backend Developer at Valtech Mobility</h3>
-- 
+
 - 🌱 I’m currently learning **Kafka**
 
 - 👯 I’m crazy about **Data Engineering**
