@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kafka**
 
-- 👯 I’m crazy about **Data Engineering**
+- :tada: I’m crazy about **Data Engineering**
 
 - 👨‍💻 Take a look at sorting algo visualizer [Click Here](https://github.com/patelshyam/Sorting-visualizer-angular)
 
